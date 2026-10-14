@@ -1,0 +1,1 @@
+Upload the JPGs from the provided photo ZIP into this folder. Keep the exact lowercase filenames; the website uses them automatically. Remote fallback images are shown until then.
